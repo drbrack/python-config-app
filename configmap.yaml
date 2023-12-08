@@ -5,5 +5,5 @@ metadata:
 data:
   config.json: |
     {
-      "value": "1"
+      "value": "2"
     }
