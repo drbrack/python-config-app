@@ -11,6 +11,8 @@ spec:
     metadata:
       labels:
         app: python-app
+      annotations:
+        last-update: "<unique-identifier>"
     spec:
       containers:
       - name: python-app
